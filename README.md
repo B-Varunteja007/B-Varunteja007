@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 Have a look at <a href="https://profile-card-three-nu.vercel.app/" target="_blank"><u>My Website</u></a>
+- 🌐 Have a look at <a href="https://varuntejabandaru.vercel.app/" target="_blank"><u>My Website</u></a>
 - 🚀 I'm currently working as a **Junior Software Engineer** at **EPAM Systems**  
 - 🔍 Passionate about **React.js**, **Node.js**, **REST APIs**, and building real-world apps
 - 🧠 Focused on improving productivity and solving real-time bugs efficiently
