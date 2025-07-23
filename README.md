@@ -30,6 +30,10 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40" height="40" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" height="40" alt="Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="40" height="40" alt="Bootstrap" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/jasmine/jasmine.png" width="40" height="40" alt="Jasmine" />
+
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40" style="margin: 10px;"/>
